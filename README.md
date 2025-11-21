@@ -34,36 +34,41 @@ const sabriel = {
 
 ### ⚡ Tech Stack & Tools
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
 #### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="50" alt="Solidity" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
 </p>
 
 #### Frameworks & Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="50" alt="Three.js" />
 </p>
 
 #### AI & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=D4A574" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://www.anthropic.com/images/icons/safari-pinned-tab.svg" height="50" alt="Claude" />
+  <img width="20" />
+  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" height="50" alt="Gemini" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+  <img width="20" />
+  <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" height="50" alt="GitHub Copilot" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 </div>
 
@@ -100,41 +105,31 @@ const sabriel = {
 
 ### ⚡ GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabrieltech&theme=tokyonight&hide_border=true&stroke=00d4ff&ring=1e90ff&fire=00bfff&currStreakLabel=00d4ff" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=sabrieltech&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00d4ff&title_color=1e90ff&text_color=00bfff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabrieltech&theme=tokyonight&hide_border=true&stroke=00d4ff&ring=1e90ff&fire=00bfff&currStreakLabel=00d4ff" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrieltech&layout=compact&theme=tokyonight&hide_border=true&title_color=1e90ff&text_color=00bfff" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabrieltech&theme=tokyo-night&hide_border=true&color=00d4ff&line=1e90ff&point=00bfff" width="49%" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabrieltech&theme=tokyo-night&hide_border=true&color=00d4ff&line=1e90ff&point=00bfff" width="100%" />
 
 </div>
 
 ---
 
-<div align="center">
-
 ### 🌊 Connect With Me
 
 <p>
   <a href="https://www.instagram.com/sabriel.gems">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="60" alt="Instagram" />
   </a>
+  <img width="30" />
   <a href="https://twitter.com/sabriel.tech">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="60" alt="Twitter" />
   </a>
+  <img width="30" />
   <a href="https://github.com/sabrieltech">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
 ### 💎 "Code is like jewelry - every detail matters"
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-</div>
 
 <!-- Profile Views Counter -->
 <div align="center">
