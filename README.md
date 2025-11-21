@@ -1,7 +1,23 @@
 <div align="center">
 
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=250&color=0:E3F2FD,50:90CAF9,100:42A5F5&section=header&text=sabriel.tech&fontSize=85&fontColor=1565C0&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Designer%20%E2%80%A2%20Developer&descSize=24&descAlignY=65&descColor=0277BD"/>
+<!-- Header Banner with Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:E3F2FD,50:42A5F5,100:1565C0&section=header"/>
+
+<div style="margin-top: -150px; position: relative; z-index: 10;">
+  <img src="https://github.com/sabrieltech.png" alt="Sabriel" width="180" style="border-radius: 50%; border: 5px solid #42A5F5; box-shadow: 0 8px 16px rgba(66, 165, 245, 0.4);"/>
+  
+  <h1 style="font-size: 3em; margin: 20px 0 10px 0; color: #1565C0;">
+    <b>sabriel.tech</b>
+  </h1>
+  
+  <h3 style="color: #42A5F5; margin: 0; font-weight: 400;">
+    AI Engineer • Designer • Developer
+  </h3>
+  
+  <p style="color: #90CAF9; margin-top: 10px;">
+    <i>Crafting the future, one line of code at a time</i>
+  </p>
+</div>
 
 <br/>
 
@@ -58,7 +74,6 @@ const sabriel = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=claude,github&theme=light" alt="Tools" />
   <img height="48" width="48" src="https://cdn.simpleicons.org/googlegemini/4285F4" alt="Gemini" style="background: white; border-radius: 8px; padding: 8px;" />
-  <img height="48" width="48" src="https://cdn.simpleicons.org/githubcopilot/000000" alt="GitHub Copilot" style="background: white; border-radius: 8px; padding: 8px;" />
   <img height="48" width="48" src="https://lovable.dev/favicon.ico" alt="Lovable" style="background: white; border-radius: 8px; padding: 8px;" />
 </p>
 
