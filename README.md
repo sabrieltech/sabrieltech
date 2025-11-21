@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- Animated Divider -->
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-blue.svg">
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 
 </div>
 
