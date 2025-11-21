@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,14,16,18,20&section=header&text=sabriel.tech&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Designer%20•%20Developer&descSize=22&descAlignY=55&descAlign=50"/>
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:87CEEB,100:00BFFF&section=header&text=sabriel.tech&fontSize=80&fontColor=FFFFFF&fontAlignY=55&stroke=FFFFFF&strokeWidth=2"/>
+
+<h3 style="color: #87CEEB; margin-top: 20px;">AI Engineer • Designer • Developer</h3>
 
 <br/>
 
@@ -61,33 +63,6 @@ const sabriel = {
   <img height="48" width="48" src="https://cdn.simpleicons.org/githubcopilot/000000" alt="GitHub Copilot" style="background: white; border-radius: 8px; padding: 8px;" />
   <img height="48" width="48" src="https://lovable.dev/favicon.ico" alt="Lovable" style="background: white; border-radius: 8px; padding: 8px;" />
 </p>
-
-</div>
-
----
-
-<div align="center">
-
-# 💎 Current Focus
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
-      <br>
-      <b>Building @ Dyna.ai</b>
-      <br>
-      Empowering businesses with AI solutions
-    </td>
-    <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" />
-      <br>
-      <b>Crafting Digital Experiences</b>
-      <br>
-      World's most beautiful jeweller portfolio
-    </td>
-  </tr>
-</table>
 
 </div>
 
