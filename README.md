@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:87CEEB,100:00BFFF&section=header&text=sabriel.tech&fontSize=80&fontColor=FFFFFF&fontAlignY=55&stroke=FFFFFF&strokeWidth=2"/>
-
-<h3 style="color: #87CEEB; margin-top: 20px;">AI Engineer • Designer • Developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=250&color=0:E3F2FD,50:90CAF9,100:42A5F5&section=header&text=sabriel.tech&fontSize=85&fontColor=1565C0&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Designer%20%E2%80%A2%20Developer&descSize=24&descAlignY=65&descColor=0277BD"/>
 
 <br/>
 
