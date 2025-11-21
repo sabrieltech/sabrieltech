@@ -1,33 +1,10 @@
 <div align="center">
 
-<!-- Header Banner with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:E3F2FD,50:42A5F5,100:1565C0&section=header"/>
+# sabriel.tech
 
-<div style="margin-top: -150px; position: relative; z-index: 10;">
-  <img src="https://github.com/sabrieltech.png" alt="Sabriel" width="180" style="border-radius: 50%; border: 5px solid #42A5F5; box-shadow: 0 8px 16px rgba(66, 165, 245, 0.4);"/>
-  
-  <h1 style="font-size: 3em; margin: 20px 0 10px 0; color: #1565C0;">
-    <b>sabriel.tech</b>
-  </h1>
-  
-  <h3 style="color: #42A5F5; margin: 0; font-weight: 400;">
-    AI Engineer • Designer • Developer
-  </h3>
-  
-  <p style="color: #90CAF9; margin-top: 10px;">
-    <i>Crafting the future, one line of code at a time</i>
-  </p>
-</div>
+**AI Engineer • Designer • Developer**
 
-<br/>
-
-<!-- Animated Typing Text -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=26&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=900&lines=AI+Sales+Engineer+%40+Dyna.ai;Designer+%E2%80%A2+Developer+%E2%80%A2+Jeweller;Crafting+Digital+Excellence;Building+Tomorrow's+Technology+Today" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- Animated Divider -->
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+---
 
 </div>
 
