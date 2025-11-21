@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=gradient&customColorList=12,14,16,18,20&text=sabriel.tech&fontSize=80&fontColor=ffffff&fontAlignY=50&stroke=87CEEB&strokeWidth=3&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:87CEEB,50:00BFFF,100:1E90FF&section=header&text=sabriel.tech&fontSize=70&fontColor=FFFFFF&animation=twinkling&rotate=8&fontAlignY=25&desc=AI%20Engineer%20%7C%20Designer%20%7C%20Developer&descSize=20&descAlignY=45"/>
 
 <br/>
 
@@ -39,7 +39,7 @@ const sabriel = {
 
 <div align="center">
 
-## ⚡ Tech Stack & Tools
+# ⚡ Tech Stack & Tools
 
 ### Languages
 
@@ -57,9 +57,9 @@ const sabriel = {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=claude,github&theme=light" alt="Tools" />
-  <img height="48" width="48" src="https://cdn.simpleicons.org/googlegemini/4285F4" alt="Gemini" />
-  <img height="48" width="48" src="https://cdn.simpleicons.org/githubcopilot/000000" alt="GitHub Copilot" />
-  <img height="48" width="48" src="https://asset.brandfetch.io/idSJHbymuQ/idm33Z_R4p.png" alt="Lovable" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/googlegemini/4285F4" alt="Gemini" style="background: white; border-radius: 8px; padding: 8px;" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/githubcopilot/000000" alt="GitHub Copilot" style="background: white; border-radius: 8px; padding: 8px;" />
+  <img height="48" width="48" src="https://lovable.dev/favicon.ico" alt="Lovable" style="background: white; border-radius: 8px; padding: 8px;" />
 </p>
 
 </div>
@@ -68,7 +68,7 @@ const sabriel = {
 
 <div align="center">
 
-## 💎 Current Focus
+# 💎 Current Focus
 
 <table>
   <tr>
