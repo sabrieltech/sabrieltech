@@ -1,19 +1,17 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00d4ff,25:1e90ff,50:0099ff,75:1e90ff,100:00d4ff&section=header&text=SABRIEL.TECH&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Where%20Code%20Meets%20Creativity&descSize=25&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=gradient&customColorList=12,14,16,18,20&text=sabriel.tech&fontSize=80&fontColor=ffffff&fontAlignY=50&stroke=87CEEB&strokeWidth=3&animation=fadeIn"/>
 
-<br>
+<br/>
 
 <!-- Animated Typing Text -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=⚡+AI+Sales+Engineer+%7C+Dyna.ai;💎+Designer+•+Developer+•+Jeweller;🌊+Crafting+Digital+Excellence;⚡+Building+the+Future+of+AI" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=26&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=900&lines=AI+Sales+Engineer+%40+Dyna.ai;Designer+%E2%80%A2+Developer+%E2%80%A2+Jeweller;Crafting+Digital+Excellence;Building+Tomorrow's+Technology+Today" alt="Typing SVG" />
 
-<br><br>
+<br/><br/>
 
-<!-- Blue Lightning Divider -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<!-- Animated Divider -->
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 
 </div>
 
