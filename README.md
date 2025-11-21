@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00d4ff,50:1e90ff,100:00bfff&height=250&section=header&text=sabriel.tech&fontSize=80&fontColor=ffffff&animation=blinking&fontAlignY=45&desc=⚡%20Crafting%20Digital%20Excellence%20⚡&descAlignY=65&descSize=25&rotate=0"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:1e90ff,100:00bfff&height=300&section=header&text=sabriel.tech&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&stroke=00d4ff&strokeWidth=2"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=⚡+AI+Sales+Engineer+%40+Dyna.ai+⚡;💎+Designer+%7C+Developer+%7C+Jeweller+💎;🌊+Crafting+Digital+Excellence+🌊" alt="Typing SVG" />
 
 <!-- Lightning Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -36,38 +38,49 @@ const sabriel = {
 
 #### Languages
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" style="background-color: white; padding: 10px; border-radius: 10px;" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" style="background-color: white; padding: 10px; border-radius: 10px;" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="50" alt="Solidity" style="background-color: white; padding: 10px; border-radius: 10px;" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" style="background-color: white; padding: 10px; border-radius: 10px;" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" style="background-color: white; padding: 10px; border-radius: 10px;" />
+<p align="center">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+  </a>
+  <a href="https://soliditylang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
+  </a>
 </p>
 
 #### Frameworks & Libraries
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js" style="background-color: white; padding: 10px; border-radius: 10px;" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" style="background-color: white; padding: 10px; border-radius: 10px;" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="50" alt="Three.js" style="background-color: white; padding: 10px; border-radius: 10px;" />
+<p align="center">
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  </a>
+  <a href="https://threejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" />
+  </a>
 </p>
 
 #### AI & Tools
 
-<p>
-  <img src="https://www.anthropic.com/images/icons/safari-pinned-tab.svg" height="50" alt="Claude" style="background-color: white; padding: 10px; border-radius: 10px;" />
-  <img width="20" />
-  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" height="50" alt="Gemini" style="background-color: white; padding: 10px; border-radius: 10px;" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" style="background-color: white; padding: 10px; border-radius: 10px;" />
-  <img width="20" />
-  <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" height="50" alt="GitHub Copilot" style="background-color: white; padding: 10px; border-radius: 10px;" />
+<p align="center">
+  <a href="https://www.anthropic.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=claude" alt="Claude" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <img src="https://img.icons8.com/color/48/google-gemini.png" alt="Gemini" style="width: 48px; height: 48px; background: white; border-radius: 8px; padding: 4px;" />
+  <img src="https://github.githubassets.com/assets/github-copilot-logo-4.png" alt="GitHub Copilot" style="width: 48px; height: 48px; background: white; border-radius: 8px; padding: 4px;" />
 </p>
 
 </div>
