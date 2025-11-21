@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- Header -->
-<h1>sabriel.tech</h1>
-<h3>AI Engineer • Designer • Developer</h3>
+<h1 style="font-size: 4em; margin-bottom: 0;">sabriel.tech</h1>
+<h2 style="font-size: 1.8em; font-weight: 400; margin-top: 10px;">AI Engineer • Designer • Developer</h2>
 
 <br/>
 
