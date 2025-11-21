@@ -1,20 +1,25 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=280&section=header&text=sabriel.tech&fontSize=85&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00d4ff,25:1e90ff,50:0099ff,75:1e90ff,100:00d4ff&section=header&text=SABRIEL.TECH&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Where%20Code%20Meets%20Creativity&descSize=25&descAlignY=60"/>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=⚡+AI+Sales+Engineer+%40+Dyna.ai;💎+Designer+%7C+Developer+%7C+Jeweller;🌊+Building+Digital+Excellence" alt="Typing SVG" />
-</h3>
+<br>
 
-<!-- Blue Lightning Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+<!-- Animated Typing Text -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=⚡+AI+Sales+Engineer+%7C+Dyna.ai;💎+Designer+•+Developer+•+Jeweller;🌊+Crafting+Digital+Excellence;⚡+Building+the+Future+of+AI" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<!-- Blue Lightning Divider -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 </div>
 
 <div align="center">
   
-### ⚡ About Me
+# ⚡ About Me
 
 ```javascript
 const sabriel = {
@@ -36,53 +41,27 @@ const sabriel = {
 
 <div align="center">
 
-### ⚡ Tech Stack & Tools
+## ⚡ Tech Stack & Tools
 
-#### Languages
+### Languages
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-  </a>
-  <a href="https://soliditylang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,js,solidity,html,css&theme=light" alt="Languages" />
 </p>
 
-#### Frameworks & Libraries
+### Frameworks & Libraries
 
 <p align="center">
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" />
-  </a>
-  <a href="https://threejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vue,react,threejs&theme=light" alt="Frameworks" />
 </p>
 
-#### AI & Tools
+### AI & Tools
 
 <p align="center">
-  <a href="https://www.anthropic.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=claude" alt="Claude" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <img src="https://img.icons8.com/color/48/google-gemini.png" alt="Gemini" style="width: 48px; height: 48px; background: white; border-radius: 8px; padding: 4px;" />
-  <img src="https://github.githubassets.com/assets/github-copilot-logo-4.png" alt="GitHub Copilot" style="width: 48px; height: 48px; background: white; border-radius: 8px; padding: 4px;" />
+  <img src="https://skillicons.dev/icons?i=claude,github&theme=light" alt="Tools" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/googlegemini/4285F4" alt="Gemini" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/githubcopilot/000000" alt="GitHub Copilot" />
+  <img height="48" width="48" src="https://asset.brandfetch.io/idSJHbymuQ/idm33Z_R4p.png" alt="Lovable" />
 </p>
 
 </div>
@@ -91,7 +70,7 @@ const sabriel = {
 
 <div align="center">
 
-### 💎 Current Focus
+## 💎 Current Focus
 
 <table>
   <tr>
@@ -118,7 +97,7 @@ const sabriel = {
 
 <div align="center">
 
-### ⚡ GitHub Stats
+# ⚡ GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabrieltech&theme=tokyonight&hide_border=true&stroke=00d4ff&ring=1e90ff&fire=00bfff&currStreakLabel=00d4ff" width="100%" />
 
