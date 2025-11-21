@@ -1,10 +1,18 @@
 <div align="center">
 
-# sabriel.tech
+<!-- Header -->
+<h1>sabriel.tech</h1>
+<h3>AI Engineer • Designer • Developer</h3>
 
-**AI Engineer • Designer • Developer**
+<br/>
 
----
+<!-- Animated Typing Text -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=26&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=900&lines=AI+Sales+Engineer+%40+Dyna.ai;Designer+%E2%80%A2+Developer+%E2%80%A2+Jeweller;Crafting+Digital+Excellence;Building+Tomorrow's+Technology+Today" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- Animated Divider -->
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 
 </div>
 
