@@ -58,7 +58,7 @@ const sabriel = {
 
 <p align="center">
   <img height="48" width="48" src="https://cdn.simpleicons.org/anthropic/D4A574" alt="Claude" style="background: white; border-radius: 8px; padding: 8px;" />
-  <img height="48" width="48" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" style="background: white; border-radius: 8px; padding: 8px;" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" style="background: #181717; border-radius: 8px; padding: 8px;" />
   <img height="48" width="48" src="https://cdn.simpleicons.org/googlegemini/4285F4" alt="Gemini" style="background: white; border-radius: 8px; padding: 8px;" />
   <img height="48" width="48" src="https://lovable.dev/favicon.ico" alt="Lovable" style="background: white; border-radius: 8px; padding: 8px;" />
 </p>
