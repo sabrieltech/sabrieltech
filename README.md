@@ -7,7 +7,7 @@
 <br/>
 
 <!-- Animated Typing Text -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=26&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=900&lines=AI+Sales+Engineer+%40+Dyna.ai;Designer+%E2%80%A2+Developer+%E2%80%A2+Jeweller;Crafting+Digital+Excellence;Building+Tomorrow's+Technology+Today" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=26&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=900&lines=AI+Solutions+Engineer+%40+Dyna.ai;Designer+%E2%80%A2+Developer+%E2%80%A2+Jeweller;Crafting+Digital+Experiences;Building+Tomorrow's+Technology+Today" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -57,7 +57,7 @@ const sabriel = {
 ### AI & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=claude,github&theme=light" alt="Tools" />
+  <img height="48" width="48" src="https://skillicons.dev/icons?i=claude,github&theme=light" alt="Gemini" style="background: white; border-radius: 8px; padding: 8px" />
   <img height="48" width="48" src="https://cdn.simpleicons.org/googlegemini/4285F4" alt="Gemini" style="background: white; border-radius: 8px; padding: 8px;" />
   <img height="48" width="48" src="https://lovable.dev/favicon.ico" alt="Lovable" style="background: white; border-radius: 8px; padding: 8px;" />
 </p>
