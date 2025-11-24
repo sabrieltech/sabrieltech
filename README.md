@@ -57,7 +57,7 @@ const sabriel = {
 ### AI & Tools
 
 <p align="center">
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=claude,github&theme=light" alt="Gemini" style="background: white; border-radius: 8px; padding: 8px" />
+  <img src="https://skillicons.dev/icons?i=claude,github&theme=light" alt="Tools" />
   <img height="48" width="48" src="https://cdn.simpleicons.org/googlegemini/4285F4" alt="Gemini" style="background: white; border-radius: 8px; padding: 8px;" />
   <img height="48" width="48" src="https://lovable.dev/favicon.ico" alt="Lovable" style="background: white; border-radius: 8px; padding: 8px;" />
 </p>
