@@ -65,17 +65,5 @@ const sabriel = {
 
 </div>
 
----
-
-<div align="center">
-
-# ⚡ GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabrieltech&theme=tokyonight&hide_border=true&stroke=00d4ff&ring=1e90ff&fire=00bfff&currStreakLabel=00d4ff" width="100%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabrieltech&theme=tokyo-night&hide_border=true&color=00d4ff&line=1e90ff&point=00bfff" width="100%" />
-
-</div>
-
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1e90ff,100:00bfff&height=120&section=footer"/>
